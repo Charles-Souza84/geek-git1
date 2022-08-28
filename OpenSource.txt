@@ -1,0 +1,3 @@
+Descobrindo e avaliando projeto
+- o Github é uma rede social para desenvolvedores
+- podemos procurar por projetos, rankear com estrelas projetos de interesse, seguir perfis etc
