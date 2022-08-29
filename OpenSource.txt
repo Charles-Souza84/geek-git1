@@ -1,3 +1,10 @@
 Descobrindo e avaliando projeto
 - o Github é uma rede social para desenvolvedores
 - podemos procurar por projetos, rankear com estrelas projetos de interesse, seguir perfis etc
+
+Issues
+- tarefas/problemas a serem resolvidos no projeto
+- ao corrigirmos um erro apontado por uma issue, podemos apagar a issue via commit
+    - cada issue tem uma numeração #<Num>
+    - ao dar commit corrigindo o arquivo, finalizamos a mensagem com Closes #<Num>
+
