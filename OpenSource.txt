@@ -8,3 +8,13 @@ Issues
     - cada issue tem uma numeração #<Num>
     - ao dar commit corrigindo o arquivo, finalizamos a mensagem com Closes #<Num>
 
+Fork
+- ao darmos fork em um projeto de algum usuário no Github, criamos no nosso perfil um repositório novo
+com o conteúdo daquele projeto. 
+- toda e qualquer modificação feita no projeto copiado se restringe à cópia no nosso repositório
+- podemos deletar um repositório em settings, ao fim da página
+
+Realizando Pull Request
+- através do pull request nós solicitamos que as alterações feitas nos projetos copiados via fork
+sejam incorporadas ao projeto original
+- o proprietário do projeto original decide se aceita ou não o pull request
