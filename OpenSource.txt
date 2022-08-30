@@ -18,3 +18,9 @@ Realizando Pull Request
 - através do pull request nós solicitamos que as alterações feitas nos projetos copiados via fork
 sejam incorporadas ao projeto original
 - o proprietário do projeto original decide se aceita ou não o pull request
+- a numeração da pull request continua a contagem de índice de issues ( caso haja 2 issues, a primeira
+pull request seria #3 )
+
+Verificando e aceitando um pull request
+- quando recebemos um pull request, devemos criar um branch para testar se as modificações sugeridas
+são pertinentes. Estando tudo ok, podemos fazer o merge pelo próprio Github
