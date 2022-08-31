@@ -41,5 +41,6 @@ Windows, Linux e Mac OS.
 ## Meta
 
 Nome do criador - [@seutwitter](https://twitter.com/seuTwiter) - seuemail@gmail.com
+
 E demais dados que forem relevantes, meta informações sobre a autoria do projeto.
 
